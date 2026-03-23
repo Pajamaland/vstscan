@@ -2,6 +2,7 @@
 a simple Python script to list all installed VST plugins in a txt file
 
 i made this simple python utility to export a txt file contianing a list of all VST plugins installed on a system (windows/mac only). this is useful for compiling a list of your LEGALLY OBTIANED vst plugins so you can easily reinstall them if you reinstall your OS.
+
 note for mac users: this does NOT scan Audio Unit (AU) plugins. this could easily be implemented since the script itself is so simple, if there's enough demand for it i might do it myself otherwise feel free to either use your brain or your favourite slop machine to add the feature for you
 
 # Usage
